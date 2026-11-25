@@ -1,0 +1,6 @@
+{
+  "name": "AuditPreço — Inteligência Colaborativa de Preços e Ofertas",
+  "description": "Plataforma colaborativa de auditoria de preços em supermercados locais, ranking IMDb de confiabilidade, portal de fiscais credenciados e dashboard executivo de gestão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
